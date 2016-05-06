@@ -47,3 +47,7 @@ endif ()
 if (OGRE_BUILD_COMPONENT_PYTHON)
     add_subdirectory(Python)
 endif()
+
+if (OGRE_BUILD_COMPONENT_CSHARP)
+    add_subdirectory(Csharp)
+endif()
