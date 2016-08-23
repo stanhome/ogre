@@ -1,0 +1,4 @@
+<map id="Ogre::RTShader::ShaderGenerator::SGScriptTranslatorManager" name="Ogre::RTShader::ShaderGenerator::SGScriptTranslatorManager">
+<area shape="rect" id="node2" href="$class_ogre_1_1_script_translator_manager.html" title="The ScriptTranslatorManager manages the lifetime and access to script translators. " alt="" coords="17,80,217,107"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="45,5,188,32"/>
+</map>

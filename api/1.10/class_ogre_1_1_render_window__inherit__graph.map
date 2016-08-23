@@ -1,0 +1,11 @@
+<map id="Ogre::RenderWindow" name="Ogre::RenderWindow">
+<area shape="rect" id="node4" href="$class_ogre_1_1_d3_d11_render_window_base.html" title="Ogre::D3D11RenderWindowBase" alt="" coords="131,229,349,256"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_d3_d9_render_window.html" title="Ogre::D3D9RenderWindow" alt="" coords="373,229,555,256"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_na_cl_window.html" title="Ogre::NaClWindow" alt="" coords="579,229,714,256"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_render_target.html" title="A &#39;canvas&#39; which can receive the results of a rendering operation. " alt="" coords="395,80,533,107"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="406,5,522,32"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_d3_d11_render_window_image_source.html" title="Ogre::D3D11RenderWindowImage\lSource" alt="" coords="5,304,229,345"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_d3_d11_render_window_swap_chain_based.html" title="Ogre::D3D11RenderWindowSwap\lChainBased" alt="" coords="253,304,475,345"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_d3_d11_render_window_core_window.html" title="Ogre::D3D11RenderWindowCore\lWindow" alt="" coords="135,393,351,435"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_d3_d11_render_window_hwnd.html" title="Ogre::D3D11RenderWindowHwnd" alt="" coords="375,401,598,427"/>
+</map>

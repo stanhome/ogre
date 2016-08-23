@@ -1,0 +1,33 @@
+<map id="Ogre::Renderable" name="Ogre::Renderable">
+<area shape="rect" id="node2" href="$class_ogre_1_1_billboard_chain.html" title="Allows the rendering of a chain of connected billboards. " alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_billboard_set.html" title="A collection of billboards (faces which are always facing the given direction) with the same (default..." alt="" coords="214,56,342,83"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_border_renderable.html" title="Class for rendering the border of a BorderPanelOverlayElement. " alt="" coords="197,107,359,133"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_frustum.html" title="A frustum represents a pyramid, capped at the near and far end which is used to represent either a vi..." alt="" coords="225,157,331,184"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_instance_batch.html" title="InstanceBatch forms part of the new Instancing system This is an abstract class that must be derived ..." alt="" coords="207,208,349,235"/>
+<area shape="rect" id="node14" href="$class_ogre_1_1_manual_object_1_1_manual_object_section.html" title="Built, renderable section of geometry. " alt="" coords="201,259,355,301"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_node_1_1_debug_renderable.html" title="Inner class for displaying debug renderable for Node. " alt="" coords="177,325,379,352"/>
+<area shape="rect" id="node16" href="$class_ogre_1_1_overlay_element.html" title="Abstract definition of a 2D element to be displayed in an Overlay. " alt="" coords="203,376,353,403"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_shadow_renderable.html" title="Class which represents the renderable aspects of a set of shadow volume faces. " alt="" coords="193,433,363,460"/>
+<area shape="rect" id="node25" href="$class_ogre_1_1_simple_renderable.html" title="Simple implementation of MovableObject and Renderable for single&#45;part custom objects. " alt="" coords="196,531,360,557"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1_static_geometry_1_1_geometry_bucket.html" title="A GeometryBucket is a the lowest level bucket where geometry with the same vertex &amp; index format is s..." alt="" coords="203,582,353,623"/>
+<area shape="rect" id="node31" href="$class_ogre_1_1_sub_entity.html" title="Utility class which defines the sub&#45;parts of an Entity. " alt="" coords="221,648,335,675"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_terrain_quad_tree_node_1_1_rend.html" title="Hook to the render queue. " alt="" coords="185,699,371,741"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_ribbon_trail.html" title="Subclass of BillboardChain which automatically leaves a trail behind one or more Node instances..." alt="" coords="488,5,612,32"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_camera.html" title="A viewpoint from which the scene will be rendered. " alt="" coords="498,56,602,83"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_base_instance_batch_v_t_f.html" title="Instancing implementation using vertex texture through Vertex Texture Fetch (VTF) This implementation..." alt="" coords="451,107,649,133"/>
+<area shape="rect" id="node12" href="$class_ogre_1_1_instance_batch_h_w.html" title="This is technique requires true instancing hardware support. " alt="" coords="467,157,633,184"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_instance_batch_shader.html" title="This is the same technique the old &quot;InstancedGeometry&quot; implementation used (with improvements). " alt="" coords="459,208,641,235"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_instance_batch_h_w___v_t_f.html" title="Instancing implementation using vertex texture through Vertex Texture Fetch (VTF) and hardware instan..." alt="" coords="721,81,919,108"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_instance_batch_v_t_f.html" title="Ogre::InstanceBatchVTF" alt="" coords="737,132,903,159"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_overlay_container.html" title="A 2D element which contains other OverlayElement instances. " alt="" coords="471,259,629,285"/>
+<area shape="rect" id="node20" href="$class_ogre_1_1_text_area_overlay_element.html" title="This class implements an overlay element which contains simple unformatted text. " alt="" coords="448,309,652,336"/>
+<area shape="rect" id="node18" href="$class_ogre_1_1_panel_overlay_element.html" title="OverlayElement representing a flat, single&#45;material (or transparent) panel which can contain other el..." alt="" coords="728,259,912,285"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_border_panel_overlay_element.html" title="A specialisation of the PanelOverlayElement to provide a panel with a border. " alt="" coords="967,251,1141,293"/>
+<area shape="rect" id="node22" href="$class_ogre_1_1_entity_1_1_entity_shadow_renderable.html" title="Nested class to allow entity shadows. " alt="" coords="459,361,641,402"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_manual_object_1_1_manual_object_section_shadow_renderable.html" title="Nested class to allow shadows. " alt="" coords="449,425,651,481"/>
+<area shape="rect" id="node24" href="$class_ogre_1_1_static_geometry_1_1_l_o_d_bucket_1_1_l_o_d_shadow_renderable.html" title="Nested class to allow shadows. " alt="" coords="427,505,673,546"/>
+<area shape="rect" id="node26" href="$class_ogre_1_1_instanced_geometry_1_1_geometry_bucket.html" title="A GeometryBucket is a the lowest level bucket where geometry with the same vertex &amp; index format is s..." alt="" coords="464,570,636,611"/>
+<area shape="rect" id="node27" href="$class_ogre_1_1_rectangle2_d.html" title="Allows the rendering of a simple 2D rectangle This class renders a simple 2D rectangle; this rectangl..." alt="" coords="483,636,617,663"/>
+<area shape="rect" id="node28" href="$class_ogre_1_1_volume_1_1_chunk.html" title="A single volume chunk mesh. " alt="" coords="476,687,624,713"/>
+<area shape="rect" id="node29" href="$class_ogre_1_1_wire_bounding_box.html" title="Allows the rendering of a wireframe bounding box. " alt="" coords="469,737,631,764"/>
+</map>

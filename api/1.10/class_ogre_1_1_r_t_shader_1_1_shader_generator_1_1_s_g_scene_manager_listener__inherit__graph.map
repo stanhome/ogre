@@ -1,0 +1,4 @@
+<map id="Ogre::RTShader::ShaderGenerator::SGSceneManagerListener" name="Ogre::RTShader::ShaderGenerator::SGSceneManagerListener">
+<area shape="rect" id="node2" href="$class_ogre_1_1_scene_manager_1_1_listener.html" title="Class that allows listening in on the various stages of SceneManager processing, so that custom behav..." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="175,13,330,39"/>
+</map>

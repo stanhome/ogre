@@ -1,0 +1,4 @@
+<map id="Ogre::PageManager::EventRouter" name="Ogre::PageManager::EventRouter">
+<area shape="rect" id="node2" href="$class_ogre_1_1_camera_1_1_listener.html" title="Listener interface so you can be notified of Camera events. " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_frame_listener.html" title="A interface class defining a listener which can be used to receive notifications of frame events..." alt="" coords="189,5,330,32"/>
+</map>

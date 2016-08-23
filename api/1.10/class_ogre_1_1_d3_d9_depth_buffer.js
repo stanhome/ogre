@@ -1,0 +1,38 @@
+var class_ogre_1_1_d3_d9_depth_buffer =
+[
+    [ "RenderTargetSet", "class_ogre_1_1_d3_d9_depth_buffer.html#ga842c0f22b9bdbe661583f5459799b1db", null ],
+    [ "PoolId", "class_ogre_1_1_d3_d9_depth_buffer.html#ga9854c57374adef41216bae68544a5b7e", [
+      [ "POOL_NO_DEPTH", "class_ogre_1_1_d3_d9_depth_buffer.html#gga9854c57374adef41216bae68544a5b7ea569228ed0fdd8d428a5117026b6d010e", null ],
+      [ "POOL_MANUAL_USAGE", "class_ogre_1_1_d3_d9_depth_buffer.html#gga9854c57374adef41216bae68544a5b7ea2d5409ddce167e1db415f09ee2160440", null ],
+      [ "POOL_DEFAULT", "class_ogre_1_1_d3_d9_depth_buffer.html#gga9854c57374adef41216bae68544a5b7ea00a687046bfe7a9ebd7f34256d3fbcca", null ]
+    ] ],
+    [ "D3D9DepthBuffer", "class_ogre_1_1_d3_d9_depth_buffer.html#a2bfd06803e6627d29b6eef9fd6bc6319", null ],
+    [ "~D3D9DepthBuffer", "class_ogre_1_1_d3_d9_depth_buffer.html#ad0bf97863bd3b2d70e3b46dea48ca8f7", null ],
+    [ "_notifyRenderTargetAttached", "class_ogre_1_1_d3_d9_depth_buffer.html#ga26c4ce1003ddab1ed7e3befecb0888a1", null ],
+    [ "_notifyRenderTargetDetached", "class_ogre_1_1_d3_d9_depth_buffer.html#ga227b541ef2ae3de53334c10397a08f99", null ],
+    [ "_setPoolId", "class_ogre_1_1_d3_d9_depth_buffer.html#ga7af5c611687492846891914dcac303d2", null ],
+    [ "detachFromAllRenderTargets", "class_ogre_1_1_d3_d9_depth_buffer.html#gac7f74e3076471b940b1a3be3a6c358d2", null ],
+    [ "getBitDepth", "class_ogre_1_1_d3_d9_depth_buffer.html#ga728fb1f26362f18ea1ba9ff5fc263b05", null ],
+    [ "getDepthBufferSurface", "class_ogre_1_1_d3_d9_depth_buffer.html#adefd485a2df8c04911417fb000919b8a", null ],
+    [ "getDeviceCreator", "class_ogre_1_1_d3_d9_depth_buffer.html#a4a28df0efc2900e69b261a4151673267", null ],
+    [ "getFsaa", "class_ogre_1_1_d3_d9_depth_buffer.html#ga7f521691f0eab6e1bdfa7b1d501f7687", null ],
+    [ "getFsaaHint", "class_ogre_1_1_d3_d9_depth_buffer.html#gaab49222ad26390c447c56c30c29261bd", null ],
+    [ "getHeight", "class_ogre_1_1_d3_d9_depth_buffer.html#gac84019090a7e7ba340cbf5b556c191c2", null ],
+    [ "getPoolId", "class_ogre_1_1_d3_d9_depth_buffer.html#gac8b0f5f8c7d5670211e34e029e35affd", null ],
+    [ "getWidth", "class_ogre_1_1_d3_d9_depth_buffer.html#ga77ae374dc411a407cf0a85dcba49e0f2", null ],
+    [ "isCompatible", "class_ogre_1_1_d3_d9_depth_buffer.html#a3ec5e775e05706b21da9e10546b3ea35", null ],
+    [ "isManual", "class_ogre_1_1_d3_d9_depth_buffer.html#ga71910f006c803f2e45b8c11a89f67a64", null ],
+    [ "mAttachedRenderTargets", "class_ogre_1_1_d3_d9_depth_buffer.html#ga303a8362b22c324be2e57c780b870b3a", null ],
+    [ "mBitDepth", "class_ogre_1_1_d3_d9_depth_buffer.html#gac0fb796a44c5f0abfa197d4185a85227", null ],
+    [ "mCreator", "class_ogre_1_1_d3_d9_depth_buffer.html#acacf694a400ea2e207ccd14f55016544", null ],
+    [ "mD3DFormat", "class_ogre_1_1_d3_d9_depth_buffer.html#a6e0d605048bfc327892351079f0739a2", null ],
+    [ "mDepthBuffer", "class_ogre_1_1_d3_d9_depth_buffer.html#a74f5456e242df389282b328da26c0ce0", null ],
+    [ "mFsaa", "class_ogre_1_1_d3_d9_depth_buffer.html#ga18ea722feff9985a01e57a7f9f0f9052", null ],
+    [ "mFsaaHint", "class_ogre_1_1_d3_d9_depth_buffer.html#ga97b950482c8f1ab2f6ba47bb4f77b2e2", null ],
+    [ "mHeight", "class_ogre_1_1_d3_d9_depth_buffer.html#ga1e7ca8b8f4774aa786987b9454be86d3", null ],
+    [ "mManual", "class_ogre_1_1_d3_d9_depth_buffer.html#ga48a92115245b988be0be1a254c2bc9af", null ],
+    [ "mMultiSampleQuality", "class_ogre_1_1_d3_d9_depth_buffer.html#ae2d26412d35e46387036bd4d1c38529f", null ],
+    [ "mPoolId", "class_ogre_1_1_d3_d9_depth_buffer.html#ga8898edcd32480833756db34086b73e95", null ],
+    [ "mRenderSystem", "class_ogre_1_1_d3_d9_depth_buffer.html#a58a49d3af969a33f092b00f1158729b3", null ],
+    [ "mWidth", "class_ogre_1_1_d3_d9_depth_buffer.html#ga06e7b623df9b2b5827c51bc8756f7ef4", null ]
+];

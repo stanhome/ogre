@@ -1,0 +1,5 @@
+<map id="Ogre::TerrainMaterialGeneratorA::SM2Profile::ShaderHelperCg" name="Ogre::TerrainMaterialGeneratorA::SM2Profile::ShaderHelperCg">
+<area shape="rect" id="node4" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper_h_l_s_l.html" title="Ogre::TerrainMaterialGenerator\lA::SM2Profile::ShaderHelperHLSL" alt="" coords="5,259,228,300"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper.html" title="Interface definition for helper class to generate shaders. " alt="" coords="16,80,217,121"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="71,5,162,32"/>
+</map>

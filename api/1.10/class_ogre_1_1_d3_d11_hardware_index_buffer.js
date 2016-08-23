@@ -1,0 +1,66 @@
+var class_ogre_1_1_d3_d11_hardware_index_buffer =
+[
+    [ "IndexType", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a25ba4923e015d46de162f7cc4c256326", [
+      [ "IT_16BIT", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a25ba4923e015d46de162f7cc4c256326a53907abe886cb9c6ebeb2520733aee4a", null ],
+      [ "IT_32BIT", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a25ba4923e015d46de162f7cc4c256326aa5194f6b6d409b1b20f91adf989ef329", null ]
+    ] ],
+    [ "LockOptions", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aac34930556f611928ec9157c04bd1b0f", [
+      [ "HBL_NORMAL", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aac34930556f611928ec9157c04bd1b0fae11601d29cd56aad7ea7a1b23a688b0e", null ],
+      [ "HBL_DISCARD", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aac34930556f611928ec9157c04bd1b0fa176ad39ac15fc0a6028d820a6fe228ae", null ],
+      [ "HBL_READ_ONLY", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aac34930556f611928ec9157c04bd1b0faa364c1511514cd4d7ee1e7092eb41288", null ],
+      [ "HBL_NO_OVERWRITE", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aac34930556f611928ec9157c04bd1b0fa32a2f7b1c3430cc9c3f0f665934d0c4a", null ],
+      [ "HBL_WRITE_ONLY", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aac34930556f611928ec9157c04bd1b0faf4acad29e302c7c02ce72c3fce8990df", null ]
+    ] ],
+    [ "UploadOptions", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ad11b63d113942454f431e7edeec86716", [
+      [ "HBU_DEFAULT", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ad11b63d113942454f431e7edeec86716a2dd88219456f6e18989efe92cfab530d", null ],
+      [ "HBU_ON_DEMAND", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ad11b63d113942454f431e7edeec86716ad38b82757bd310710a6bebebd60b0d54", null ]
+    ] ],
+    [ "Usage", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630", [
+      [ "HBU_STATIC", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630a6f26f67ab31d60248314c9c6c77c9edb", null ],
+      [ "HBU_DYNAMIC", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630abec61c14b13652a06566a79afd6f7518", null ],
+      [ "HBU_WRITE_ONLY", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630a2fe20ff00e9acb928a2d9680f0c505e2", null ],
+      [ "HBU_DISCARDABLE", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630a246699879ba7647973a2d8ed86acf76f", null ],
+      [ "HBU_STATIC_WRITE_ONLY", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630a5ffbb339becd31435c5f616be4c28996", null ],
+      [ "HBU_DYNAMIC_WRITE_ONLY", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630aa0c82d1b27d6cc04e4b5f6d47a22a74c", null ],
+      [ "HBU_DYNAMIC_WRITE_ONLY_DISCARDABLE", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae51f5970d879af736e4cf53e1ec46630a29ff2e0fd2b408359e84291b27282516", null ]
+    ] ],
+    [ "D3D11HardwareIndexBuffer", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a565f44c45f919429a09a5994e0d2bd6a", null ],
+    [ "~D3D11HardwareIndexBuffer", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ae53f3e02c9182d60759d45f5a2addf2d", null ],
+    [ "_updateFromShadow", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a344c52f2214eaff097d5fbc390e7684b", null ],
+    [ "copyData", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aa7657864dada56b4849b556ffb5da86e", null ],
+    [ "copyData", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a0bf3147b1f99a81dd84fb7b978c4686d", null ],
+    [ "getD3DIndexBuffer", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a4a3ec26e558dfa04a5bf33c2badeb889", null ],
+    [ "getIndexSize", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a294ab09e6caef25b3c42c277a5de95e1", null ],
+    [ "getManager", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a7f676fc66c7f4b0c9fc31800d021742e", null ],
+    [ "getNumIndexes", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ab9e775a91b90c6bbac888d97fe51d9d2", null ],
+    [ "getSizeInBytes", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a1b1b5faf06139040824fd989d0b279f8", null ],
+    [ "getType", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a3f2671fe0ad937070ea24d9bc7626cd3", null ],
+    [ "getUsage", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a0e00770f5e9395e41b6520be8421a6c8", null ],
+    [ "hasShadowBuffer", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ad523887cfaa6abe48dd494a3ea06805a", null ],
+    [ "isLocked", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#adac787fa08937bedd31f28b4e6e2f4db", null ],
+    [ "isSystemMemory", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a61086322fba08abadf4fe6734a7c70f7", null ],
+    [ "lock", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a7b6ecb1dc06ce4ed96c98bbcbbe7adff", null ],
+    [ "lock", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aaee477b6f3d54b83060b212e0b68b129", null ],
+    [ "lockImpl", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ace48d11f48f424a41cc3d4ed505a613b", null ],
+    [ "readData", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a424ad96bbaffe28063b9c37378da52ab", null ],
+    [ "suppressHardwareUpdate", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a688e1be4a913099ce5e06172771e2d45", null ],
+    [ "unlock", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a77856e935639af73302824505af41dc5", null ],
+    [ "unlockImpl", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ab849444543ede857c073034f55b773bf", null ],
+    [ "writeData", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aef72a2eb1965ca63ea0184660f9578cf", null ],
+    [ "mBufferImpl", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a924c57683d95a4559e1b172b36c82a28", null ],
+    [ "mIndexSize", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a55901ccfe05b1d3dc65be17174aae6ed", null ],
+    [ "mIndexType", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ad55227078ba92018afb29c98a1287eb6", null ],
+    [ "mIsLocked", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a25edb91791e48a7cc9ba2fb05f11bd33", null ],
+    [ "mLockSize", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#ac96a7a04f4e29d8d00117a80d9a1c9a0", null ],
+    [ "mLockStart", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a272cf9751affd73ea03930153357930b", null ],
+    [ "mLockUploadOption", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a785839cafe7b178b9f94b311b99fc327", null ],
+    [ "mMgr", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#af67b89fb4d762d17da970269bcd9894a", null ],
+    [ "mNumIndexes", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a8dfffabc8a138184c98227c7ad4fe871", null ],
+    [ "mShadowBuffer", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aa7af816828af5aceb84033a9e101efb6", null ],
+    [ "mShadowUpdated", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a68127e87e132304c7655df554a82110c", null ],
+    [ "mSizeInBytes", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#aa8fecea9221ffacaae2f1fdea38558da", null ],
+    [ "mSuppressHardwareUpdate", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a47e53af2e87624c42ab934766bf65fca", null ],
+    [ "mSystemMemory", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#af97b321278124803d13b700a46657ecb", null ],
+    [ "mUsage", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a2eb83f024781415a7fefb31f65a255c2", null ],
+    [ "mUseShadowBuffer", "class_ogre_1_1_d3_d11_hardware_index_buffer.html#a2caed02d4c9ad400d020ea8b0b24adf4", null ]
+];

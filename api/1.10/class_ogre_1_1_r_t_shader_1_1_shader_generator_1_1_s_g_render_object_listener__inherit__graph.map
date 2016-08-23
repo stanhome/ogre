@@ -1,0 +1,4 @@
+<map id="Ogre::RTShader::ShaderGenerator::SGRenderObjectListener" name="Ogre::RTShader::ShaderGenerator::SGRenderObjectListener">
+<area shape="rect" id="node2" href="$class_ogre_1_1_render_object_listener.html" title="Abstract interface which classes must implement if they wish to receive events from the scene manager..." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="213,5,368,32"/>
+</map>
