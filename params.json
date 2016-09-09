@@ -1,0 +1,6 @@
+{
+  "name": "OGRE Github",
+  "tagline": "Fork of OGRE 1.10 ",
+  "body": "# Relevant information\r\n\r\n* [Differences to the Bitbucket Version](https://github.com/OGRECave/ogre/blob/master/git-ChangeLog.md)\r\n* [Up-to-date API documentation](https://ogrecave.github.io/ogre/api/1.10/)\r\n* [Doxygen based Manual](https://ogrecave.github.io/ogre/api/1.10/manual.html)\r\n* [Basic Emscripten Demo](https://ogrecave.github.io/ogre/emscripten/)\r\n\r\n## OpenGL RenderSystem Comparisons\r\n* [GL vs GL3Plus](https://ogrecave.github.io/ogre/gl_status/TestResults_GL3Plus.html)\r\n* [GL vs GLES2](https://ogrecave.github.io/ogre/gl_status/TestResults_GLES2.html)\r\n* [GLES2 vs GL3Plus (outdated)](https://ogrecave.github.io/ogre/gl_status/gles2vsgl3plus.html)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
